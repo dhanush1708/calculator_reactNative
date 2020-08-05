@@ -1,3 +1,3 @@
-# calculator_reactNative
+# Calculator 
 
 A simple calculator App written in React Native
